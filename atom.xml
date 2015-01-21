@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://vickeyhuang16.github.io/atom.xml" rel="self"/>
   <link href="http://vickeyhuang16.github.io/"/>
-  <updated>2015-01-21T14:18:22+08:00</updated>
+  <updated>2015-01-21T15:14:59+08:00</updated>
   <id>http://vickeyhuang16.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Yes You Can]]></title>
+    <link href="http://vickeyhuang16.github.io/blog/2015/01/21/yes-you-can/"/>
+    <updated>2015-01-21T15:14:42+08:00</updated>
+    <id>http://vickeyhuang16.github.io/blog/2015/01/21/yes-you-can</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Yes]]></title>
