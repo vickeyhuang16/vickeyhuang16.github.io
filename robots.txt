@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://vickeyhuang16.github.io/sitemap.xml 
